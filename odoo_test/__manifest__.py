@@ -27,13 +27,10 @@
     # always loaded
     'data': [
         'security/access.csv',
-        'views/odoo_test.xml',
+    #    'views/odoo_test.xml',
     ],
     # only loaded in demonstration mode
-    'demo': [
-        'demo.xml',
-    ],
-    'qweb':[],
+     
     'installable':True,
     'application':True,
     'auto_install':False
