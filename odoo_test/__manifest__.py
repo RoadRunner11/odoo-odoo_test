@@ -25,10 +25,10 @@
     'depends': ['base'],
 
     # always loaded
-    'data': [
-        'security/access.csv',
+    #'data': [
+       # 'security/access.csv',
     #    'views/odoo_test.xml',
-    ],
+#    ],
     # only loaded in demonstration mode
      
     'installable':True,
